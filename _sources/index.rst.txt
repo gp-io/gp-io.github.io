@@ -6,7 +6,7 @@
 General Purpose Input Output
 ============================
 
-About GPIO and how to use them better.
+About GPIO and how to use.
 
 
 .. toctree::
