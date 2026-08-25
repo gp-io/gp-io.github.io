@@ -6,10 +6,11 @@
 General Purpose Input Output
 ============================
 
-About GPIO and how to use.
+There are lots of good documents explaining GPIO, so this site will just skip them. You can search or ask AI. These maybe good starting point.
 
+* `General-purpose input/output @wikipedia.org <https://en.wikipedia.org/wiki/General-purpose_input/output>`__
+* `Beginners Guide to Wiring Things to the GPIO @forums.raspberrypi.com <https://forums.raspberrypi.com/viewtopic.php?t=216304>`__
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
